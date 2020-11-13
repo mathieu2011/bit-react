@@ -1,0 +1,12 @@
+{
+  "name": "bit-react",
+  "version": "1.0.0",
+  "description": "Bit micro frontend",
+  "main": "index.js",
+  "repository": "git@github.com:mathieu2011/bit-react.git",
+  "author": "mwirtz <mwirtz@carrentals.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bit-bin": "^14.8.8"
+  }
+}
